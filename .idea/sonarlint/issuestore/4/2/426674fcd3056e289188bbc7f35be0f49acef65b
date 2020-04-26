@@ -1,0 +1,15 @@
+
+P
+squid:S106€"9Replace this use of System.out or System.err by a logger.(Ÿó¼
+P
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(Ä€²·
+wsquid:S1450"`Remove the "defaultSenderPass" field and declare it as a local variable in the relevant methods.(ºÎ×Ô
+Ysquid:S00107"AConstructor has 8 parameters, which is greater than 7 authorized.(¯à­ğ
+fsquid:S4042©"IUse "java.nio.Files#delete" here for better messages on error conditions.(Ş‚·æûÿÿÿÿ
+|squid:S1450"`Remove the "defaultSenderName" field and declare it as a local variable in the relevant methods.(ËØ§¿ùÿÿÿÿ
+usquid:S1450"^Remove the "defaultSmtpHost" field and declare it as a local variable in the relevant methods.(³«¿
+W
+squid:S899©";Do something with the "boolean" value returned by "delete".(Ş‚·æûÿÿÿÿ
+Ysquid:S00107?"<Method has 8 parameters, which is greater than 7 authorized.(ËÛ®ùÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶Âãşÿÿÿÿÿ
+_squid:S00112ë"FDefine and throw a dedicated exception instead of using a generic one.(ßİ¹ 
