@@ -117,7 +117,7 @@
         <repository>
             <id>GrapeSoft</id>
             <name>GrapeSoft</name>
-            <url>http://193.112.89.157:8081/repository/GrapeSoft/</url>
+            <url>http://mvn.putao282.com:8081/repository/GrapeSoft/</url>
         </repository>
     </distributionManagement>
 </project>
